@@ -40,6 +40,6 @@ class FirebaseHttpClient {
 };
 
 static const char kFirebaseFingerprint[] =
-      "6E:F3:55:47:6D:F1:0E:5B:2B:04:F2:F8:C0:8B:E8:05:65:0F:1A:C1"; // 2021-11 for https://miyahv3-default-rtdb.firebaseio.com/
+      "D8:B3:1A:84:FC:C8:0D:05:F3:3B:7F:7D:A5:37:AF:BE:90:FB:BC:76"; // 2021-12-08 for https://miyahv3-default-rtdb.firebaseio.com/  on  https://www.grc.com/fingerprints.htm
 
 #endif  // FIREBASE_HTTP_CLIENT_H
